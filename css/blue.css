@@ -188,7 +188,7 @@ h2 {
 p {
 	width:500px;
 	margin-left:40px;
-	float:right;	
+	float:right;
 }
 
 p img {
@@ -261,7 +261,7 @@ ol {
 	width:500px;
 	margin-left:40px;
 	list-style: decimal;
-	
+
 }
 
 ol li {
@@ -274,7 +274,7 @@ dl {
 	float:right;
 	width:500px;
 	margin-left:40px;
-	
+
 }
 
 dt {
@@ -295,7 +295,7 @@ ul.unordered {
 	float:right;
 	width:500px;
 	margin-left:40px;
-	
+
 }
 
 ul.unordered li {
@@ -315,7 +315,7 @@ ul.info {
 	float:right;
 	width:500px;
 	margin-left:40px;
-	list-style-type: none; 
+	list-style-type: none;
 }
 
 ul.info li {
@@ -339,7 +339,7 @@ ul.skills {
 	margin-left:40px;
 	margin-top:-6px;
 	list-style-type: none;
-	
+
 }
 
 ul.skills li {
@@ -388,14 +388,14 @@ img.portrait {
 	background-image:url(../images/frame.jpg);
 	background-repeat: no-repeat;
 	width:109px;
-	height:109px;
+	height:120px;
 	padding-top:20px;
 	padding-left:11px;
 	padding-right:11px;
 	padding-bottom:36px;
 	margin-left:50px;
 	float:left;
-	
+
 }
 
 
@@ -427,7 +427,7 @@ img.portrait {
 }
 
 .self ul li.web {
-	background-image:url(../images/icn-web.gif);
+	background-image:url(../images/icn-web.png);
 }
 
 .self ul li {
@@ -535,7 +535,7 @@ img.portrait {
 #message a {
 	color: #fff;
 }
-	
+
 /* ELEMENTS */
 /* ----------------------------------------- */
 
@@ -703,7 +703,7 @@ textarea:focus {
 	display: block;
 	clear: both;
 	width:90px;
-	height: 33px; 
+	height: 33px;
 	border:none;
 	float:left;
 	margin-left: 80px;
